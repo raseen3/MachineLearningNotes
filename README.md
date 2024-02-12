@@ -2,6 +2,19 @@
 
 Personal experiments and lessons on Machine Learning
 
+## My Notes
+
+1. [[Learning Strategies]]
+2. [[Bias Variance Trade Off]]
+3. [[Probably Approximately Correct (PAC) Learning]]
+4. [[VC Dimension]]
+5. [[Learning Curves Underfitting vs Overfitting]]
+6. [[Bayesian Learning]]
+7. [[Maximum Likelihood Estimation (MLE)]]
+8. [[Maximum a Posteriori (MAP)]]
+9. [[Mixture Models]]
+10. [[Ensemble Learning]]
+
 ## Sources
 
 ### YouTube
@@ -12,7 +25,7 @@ Personal experiments and lessons on Machine Learning
 
 ### Textbooks
 
-- [Deep Learning Bool](https://www.deeplearningbook.org/)
+- [Deep Learning Book](https://www.deeplearningbook.org/)
 
 - [Mathematics for Machine Learning](https://mml-book.github.io/)
 
